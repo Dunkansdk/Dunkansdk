@@ -1,5 +1,3 @@
-### 👋
-
 >  This is our world now... the world of the electron and the switch, the
 beauty of the baud.  We make use of a service already existing without paying
 for what could be dirt-cheap if it wasn't run by profiteering gluttons, and
